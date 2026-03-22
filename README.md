@@ -14,37 +14,37 @@ Sistema para monitoreo y gestión de infraestructura industrial como bombas, duc
 
 Pantalla principal del sistema donde se monitorean bombas, ductos y el estado general de la infraestructura.
 
-![Dashboard](docs/dashboard.png)
+![Dashboard](docs/INICIO.png)
 
 ## Módulo de monitoreo
 
 Vista enfocada en el monitoreo en tiempo real de los diferentes componentes del sistema.
 
-![Monitoreo](docs/monitoreo.png)
+![Monitoreo](docs/MONITOREO.png)
 
 ## Tabla de operaciones
 
 Tabla que muestra las operaciones registradas dentro del sistema, permitiendo visualizar y gestionar la información.
 
-![Operaciones](docs/operaciones.png)
+![Operaciones](docs/OPERACION.png)
 
 ## Reportes generados
 
 Módulo para generación y visualización de reportes del sistema.
 
-![Reportes](docs/reportes.png)
+![Reportes](docs/REPORTES.png)
 
 ## Gestión de roles y permisos
 
 Panel administrativo para la configuración de usuarios, roles y permisos dentro del sistema.
 
-![Roles](docs/roles.png)
+![Roles](docs/ROLES.png)
 
 ## Tendencias en tiempo real
 
 Vista que permite visualizar tendencias y comportamiento de datos en tiempo real.
 
-![Tendencias](docs/tendencias.png)
+![Tendencias](docs/TENDENCIAS.png)
 
 ## Contribución personal
 
